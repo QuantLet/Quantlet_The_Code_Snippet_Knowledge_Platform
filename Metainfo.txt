@@ -1,0 +1,6 @@
+Name of Quantlet: Quantlet_The_Code_Snippet_Knowledge_Platform
+Published in: Quantlet The Code Snippet Knowledge Platform 
+Description: This repository contains the code used within the paper 'Quantlet The Code Snippet Knowledge Platform'.
+Keywords: Quantlet, QT, README, Python, Scrape
+Author: Găman Ștefan  
+Submitted:  10.02.2025
