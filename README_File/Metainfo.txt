@@ -1,0 +1,6 @@
+Name of Quantlet: ReadMe_File
+Published in: Quantlet The Code Snippet Knowledge Platform 
+Description: This code generates the personalized ReadMe filefor the QTs.
+Keywords: Quantlet, QT, README, Python
+Author: Găman Ștefan  
+Submitted:  10.02.2025
