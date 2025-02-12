@@ -2,5 +2,5 @@ Name of Quantlet: Clustering_QTs
 Published in: Quantlet The Code Snippet Knowledge Platform 
 Description: This code makes the clusters for the QTs so every tile will be part of one category.
 Keywords: Quantlet, QT, README, R, clustering, labels
-Author: Găman Ștefan  
+Author: Winkel Julian  
 Submitted:  10.02.2025
